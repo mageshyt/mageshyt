@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @Magesh
+- 👀 I’m interested in software development ...
+- 🌱 I’m currently learning deno 🦕...
+- 📫 How to reach me my instagram id:magesh2707 ...
+
 
 <!--
 **mageshyt/mageshyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
