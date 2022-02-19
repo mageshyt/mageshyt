@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Crypto Puck]**
+- 🔭 I’m currently working on **[Chat app]**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
