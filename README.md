@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Chat app]**
+- 🔭 I’m currently working to **Improve my problem solving skills**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Node js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
