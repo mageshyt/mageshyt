@@ -7,7 +7,7 @@ Hi 🖖🏻 My name is Magesh
 ## I'm a Software Developer.
 
 
-i am 17 years old and I am software developer who loves to learn new technologies.I started to learn code in mid of 2020. I started with Python and Mastered it then i started web development. now working on web3 🔥
+i am 19 years old and I am software developer who loves to learn new technologies.I started to learn code in mid of 2020. I started with Python and Mastered it then i started web development. now working on web3 🔥
 ## 🙋‍♂️ About Me
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
@@ -16,6 +16,7 @@ i am 17 years old and I am software developer who loves to learn new technologie
 - 🌍  I'm living in india
 - 🖥️  See my portfolio at [portfolio](http://portfolio-sigma-one-51.vercel.app/)
 - ✉️  You can contact me at [hariarunengg07@gamil.com](mailto:hariarunengg07@gamil.com)
+- 🧑🏻‍💻 Leetcode profile Rank-`18,077` [leetcode](https://leetcode.com/mageshyt/)
 - 🧠  I'm learning Node js
 - 🤝  I'm open to collaborating on open source projects
 - ⚡  l'm ironman secretly,don't tell to anyone 🤫
@@ -32,6 +33,7 @@ src="https://img.shields.io/github/followers/mageshyt?logo=github&style=for-the-
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 
+  
 ### Socials
 
 
