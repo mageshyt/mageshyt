@@ -14,7 +14,7 @@ i am 19 years old and I am software developer who loves to learn new technologie
 - 🔭 I’m currently working on **my startup**
 
 - 🌍  I'm living in india
-- 🖥️  See my portfolio at [portfolio](http://portfolio-sigma-one-51.vercel.app/)
+- 🖥️  See my portfolio at [portfolio](mageshyt-portfolio.vercel.app/)
 - ✉️  You can contact me at [hariarunengg07@gamil.com](mailto:hariarunengg07@gamil.com)
 - 🧑🏻‍💻 Leetcode profile Rank-`18,077` [leetcode](https://leetcode.com/mageshyt/)
 - 🧠  I'm learning Node js
