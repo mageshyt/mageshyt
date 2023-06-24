@@ -30,6 +30,3 @@ i am 19 years old and I am software developer who loves to learn new technologie
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mageshyt&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/mageshyt/mageshyt/output/snake.svg" alt="Snake animation" />
-
-###
