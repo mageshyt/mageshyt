@@ -9,7 +9,7 @@ Hi 🖖🏻 My name is Magesh
 
 i am 19 years old and I am software developer who loves to learn new technologies.I started to learn code in mid of 2020. I started with Python and Mastered it then i started web development. now working on web3 🔥
 ## 🙋‍♂️ About Me
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
 🔭 I’m currently working on my startup<br><br>
 🌍  I'm living in india<br><br>
