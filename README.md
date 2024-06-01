@@ -13,7 +13,7 @@ I'm all about learning, growing, and turning cool ideas into digital reality. Jo
 
 🔭 I’m currently working on my startup<br><br>
 🌍  I'm living in india<br><br>
-🖥️  See my portfolio at [portfolio](https://mageshyt-portfolio.vercel.app/)  <br><br>
+🖥️  See my portfolio at [portfolio](https://magesh-portfolio.vercel.app/)  <br><br>
 ✉️  You can contact me at hariarunengg07@gamil.com<br><br>
 🧑🏻‍💻 Leetcode profile Rank-18,077 leetcode<br><br>🧠  I'm learning Node js<br><br>🤝  I'm open to collaborating on open source projects<br><br>⚡  l'm ironman secretly,don't tell to anyone 🤫<br><br>
 
