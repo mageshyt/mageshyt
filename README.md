@@ -5,7 +5,7 @@ Hi 🖖🏻 My name is Magesh
 ## About Me 🌟
 
 
-Hello there! 👋 I'm a passionate 21-year-old software developer on an exciting journey of exploring and mastering cutting-edge technologies. My coding adventure began in the midst of 2020, where I started with Python, aced it, and then dived into web development. Now, I'm exploring the awesome world of Machine Learning. 🚀
+Hello there! 👋 I'm a passionate software developer on an exciting journey of exploring and mastering cutting-edge technologies. 
 
 I'm all about learning, growing, and turning cool ideas into digital reality. Join me on this journey, and let's make some tech magic together! ✨
 
